@@ -1,1 +1,1 @@
-The primary simulation code is inside the Jupyter notebook "Thermal memory.ipynb".
+The primary simulation and plotting code is inside the Jupyter notebook "Thermal memory.ipynb". The simulation code specific to the hypergraph product of tree Ising models is inside "quantum_Ising_tree.ipynb".
